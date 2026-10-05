@@ -1,0 +1,6 @@
+{
+  "name": "STOPCASE OS",
+  "description": "Sistema Operacional de Gestão Empresarial da Stopcase - Guarda-volumes e bagagens em aeroportos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
